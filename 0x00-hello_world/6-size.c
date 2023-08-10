@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * my program prints variables types
+ *main - my program prints variables types
  * Return: 0 (ended successfully)
  */
 int main(void)

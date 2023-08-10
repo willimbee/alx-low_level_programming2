@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - my program using printf 
+ * main - Program using printf function to print a message
+ * Return: 0 (Program ended successfully)
  */
 int main(void)
 {
